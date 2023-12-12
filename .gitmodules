@@ -1,0 +1,3 @@
+[submodule "rotating_rectangle"]
+	path = rotating_rectangle
+	url = https://github.com/jjoonleo/rotating_rectangle
