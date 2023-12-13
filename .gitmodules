@@ -1,3 +1,6 @@
 [submodule "rotating_rectangle"]
 	path = rotating_rectangle
 	url = https://github.com/jjoonleo/rotating_rectangle
+[submodule "chained_animation"]
+	path = chained_animation
+	url = https://github.com/jjoonleo/chained_animation
